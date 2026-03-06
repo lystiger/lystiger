@@ -1,16 +1,31 @@
-## Hi there 👋
+## Bonjour 👋
 
-<!--
-**lystiger/lystiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anh, an **ML Engineer / MLOps enthusiast from Vietnam**.
 
-Here are some ideas to get you started:
+I build, test, and deploy AI models, then integrate them into real-world systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My obsession with **tech and agentic systems** keeps pushing me to improve in this field.
+
+### Stack
+
+FastAPI • ReactJS • TypeScript • NVIDIA Triton • PyTorch • TensorFlow
+
+My favorite tools are **custom CLI agents** — I feed them milk and cookies every day.
+
+### Projects
+
+I've built many projects.
+Some were deeply rewarding like **SignGlove**,
+some taught me a lot like **SUBA** and **TempCastML**,
+and some left me slightly depressed like **Re:CNN** or **Car Crash: Turbo Drive**.
+
+I currently have **~50 repositories**.
+Some are private experiments, but most public ones represent the work I'm proud of.
+
+### Fun Facts
+
++ Athletics enthusiast
+
++ Pretty good cook
+
++ Polyglot!? *Oui, c'est vrai !*
