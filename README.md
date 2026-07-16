@@ -16,7 +16,7 @@ My favorite tools are custom CLI agents — I feed them milk and cookies every d
 
 I've built many projects.
 Some were deeply rewarding like **[SignGlove](https://github.com/lovelypoet/SilentVoix)**,
-some taught me a lot like **[suba](https://github.com/lystiger/suba)** and **[TempCastML](https://github.com/lystiger/TempCastML)**,
+some taught me a lot like **[RAInder](https://github.com/lystiger/RAInder)** and **[TempCastML](https://github.com/lystiger/TempCastML)**,
 and some left me slightly depressed like **[Re:CNN](https://github.com/TommyDatLC/ReCNN)** or **[Car Crash: Turbo Drive](https://github.com/TommyDatLC/Project-L)**.
 
 I currently have ~50 repositories.
