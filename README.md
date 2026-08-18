@@ -2,7 +2,7 @@
 
 I'm Anh, an **ML Engineer / MLOps enthusiast from Vietnam**.
 
-I build, test, and deploy AI models, then integrate them into real-world systems.
+I work across ML engineering, backend systems, and MLOps: training and evaluating models, packaging inference, exposing APIs, and instrumenting what happens after deployment.
 
 My obsession with tech and agentic systems keeps pushing me to improve in this field.
 
