@@ -18,7 +18,7 @@ Three I'd actually talk about:
 
 **[Hermes Lab](https://github.com/lystiger/Hermes-lab)** — multi-agent orchestration runtime. Agent adapters run isolated phases across dedicated Git worktrees, with a declarative verification pipeline gating every merge. [LysStack](https://github.com/lystiger/LysStack) is its control plane; [LysControl](https://github.com/lystiger/LysControl) is the telemetry station.
 
-**[colosseum-agent-arena](https://github.com/lystiger/colosseum-agent-arena)** — adversarial agent evaluation. An MCP/A2A gateway that has to stay grounded through a protocol surface actively lying to it, and a prosecutor that proves from an opponent's trace which invariant broke and where. The rule is *no claim, no damage* — a hit you can't explain scores zero. A lab, not mine alone: the scaffold was my instructor's.
+**[SignGlove / SilentVoix](https://github.com/lovelypoet/SilentVoix)** — real-time sign-language recognition. An ESP32 glove streams five flex sensors and an IMU per hand at 50 Hz over WebSocket, an LSTM classifies the gesture, and the browser speaks it aloud — fully offline, on the local network. Behind the demo sits a multi-format model runtime (`.pth`, `.tflite`, `.keras`, `.h5`, `.pt`) with preflight validation, hybrid PostgreSQL + MongoDB storage, Celery workers, and Prometheus/Grafana. Five contributors over Jan–Mar 2026; 229 of the 314 commits are mine. Still the most rewarding thing I've built.
 
 The rest, shorter:
 
@@ -26,7 +26,7 @@ The rest, shorter:
 - **[Uni-Green](https://github.com/lystiger/Unigreen)** — bilingual B2B catalogue and quotation platform, Dramatiq workers under a Next.js storefront.
 - **[TempCastML](https://github.com/lystiger/TempCastML)** — ESP32-S3 telemetry and LSTM forecasting, where persistence still beats my model (0.104 vs 0.177 °C MAE) and I said so in the README.
 - **[Elysia](https://github.com/lystiger/Elysia)** — local-first desktop companion on Electron + Ollama. A breathing orb, not a message thread.
-- **[SignGlove / SilentVoix](https://github.com/lovelypoet/SilentVoix)** — sign-language capture and translation. Still the most rewarding thing I've built.
+- **[colosseum-agent-arena](https://github.com/lystiger/colosseum-agent-arena)** — adversarial agent evaluation: an MCP/A2A gateway kept grounded through a protocol surface that lies to it, and a prosecutor that proves invariant breaks from a trace. A lab; the scaffold was my instructor's.
 - **[ai-platform-integration-lab](https://github.com/lystiger/ai-platform-integration-lab)** — nine components, ten integration points, evidence committed instead of claimed.
 - **[HASC](https://github.com/lystiger/HASC)** — product catalogue and admin panel for an industrial supplier, built to replace their legacy template site. Deployed, with self-hosted analytics; catalogue load and the `.com.vn` cutover still ahead.
 - Also: [RAInder](https://github.com/lystiger/RAInder) — DLSS-inspired rendering on Triton.
