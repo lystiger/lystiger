@@ -4,52 +4,25 @@
 
 *Building production-oriented AI systems, agent infrastructure, and backend platforms.*
 
-I work across ML engineering, backend systems, and MLOps: training and evaluating models, packaging inference, exposing APIs, and instrumenting what happens after deployment.
-
-My obsession with tech and agentic systems keeps pushing me to improve in this field.
-
-My favorite tools are custom CLI agents — I feed them milk and cookies every day.
+I train models, put them behind APIs, and instrument what happens after. My favorite tools are custom CLI agents — I feed them milk and cookies every day.
 
 ### Projects
 
-Three I'd actually talk about:
+**[SignGlove / SilentVoix](https://github.com/lovelypoet/SilentVoix)** — a glove that speaks. ESP32 at 50 Hz, an LSTM, no cloud. 229 of its 314 commits are mine.
 
-**[AOI](https://github.com/lystiger/AOI)** — automated optical inspection for PCB defect detection. YOLO inference, FastAPI, React review workstation, and a JSONL → Promtail → Loki → Grafana path measured end to end: **1.25 s median event freshness**, 18.6–93.9 ms query latency, 380 KiB per 1,000 events, 1,000/1,000 events visible.
+**[AOI](https://github.com/lystiger/AOI)** — PCB defect inspection, measured end to end rather than asserted. Numbers in the README.
 
-**[Hermes Lab](https://github.com/lystiger/Hermes-lab)** — multi-agent orchestration runtime. Agent adapters run isolated phases across dedicated Git worktrees, with a declarative verification pipeline gating every merge. [LysStack](https://github.com/lystiger/LysStack) is its control plane; [LysControl](https://github.com/lystiger/LysControl) is the telemetry station.
+**[Hermes Lab](https://github.com/lystiger/Hermes-lab)** — agents running sprints in their own worktrees, nothing merging until it verifies. [LysStack](https://github.com/lystiger/LysStack) decides, [LysControl](https://github.com/lystiger/LysControl) watches.
 
-**[SignGlove / SilentVoix](https://github.com/lovelypoet/SilentVoix)** — real-time sign-language recognition. An ESP32 glove streams five flex sensors and an IMU per hand at 50 Hz over WebSocket, an LSTM classifies the gesture, and the browser speaks it aloud — fully offline, on the local network. Behind the demo sits a multi-format model runtime (`.pth`, `.tflite`, `.keras`, `.h5`, `.pt`) with preflight validation, hybrid PostgreSQL + MongoDB storage, Celery workers, and Prometheus/Grafana. Five contributors over Jan–Mar 2026; 229 of the 314 commits are mine. Still the most rewarding thing I've built.
+Also: [MoveInMate](https://github.com/AI20K-Build-Phase-Cohort-3/P-016) (RAG + LangGraph, 3,082 tests) · [Uni-Green](https://github.com/lystiger/Unigreen) (B2B catalogue) · [HASC](https://github.com/lystiger/HASC) (a real client, catalogue pending) · [TempCastML](https://github.com/lystiger/TempCastML) (where persistence beat my model, and I said so) · [Elysia](https://github.com/lystiger/Elysia) (a breathing orb, not a chatbot) · [colosseum-agent-arena](https://github.com/lystiger/colosseum-agent-arena) (agents prosecuting each other) · [RAInder](https://github.com/lystiger/RAInder) · [ai-platform-integration-lab](https://github.com/lystiger/ai-platform-integration-lab)
 
-The rest, shorter:
+Mobile: [CHAN](https://github.com/lystiger/CHAN) — scam detection, top 3 at the VinUni hackathon. [VBridge](https://github.com/lystiger/VBridge) — VAIC 2026, 48 hours. [Justagram](https://github.com/TommyDatLC/Justagram) — an Instagram clone in plain Java, no shortcuts.
 
-- **[MoveInMate](https://github.com/AI20K-Build-Phase-Cohort-3/P-016)** — resident onboarding assistant, RAG + LangGraph, 3,082 backend tests. [APK here](https://github.com/lystiger/MoveInMate).
-- **[Uni-Green](https://github.com/lystiger/Unigreen)** — bilingual B2B catalogue and quotation platform, Dramatiq workers under a Next.js storefront.
-- **[TempCastML](https://github.com/lystiger/TempCastML)** — ESP32-S3 telemetry and LSTM forecasting, where persistence still beats my model (0.104 vs 0.177 °C MAE) and I said so in the README.
-- **[Elysia](https://github.com/lystiger/Elysia)** — local-first desktop companion on Electron + Ollama. A breathing orb, not a message thread.
-- **[colosseum-agent-arena](https://github.com/lystiger/colosseum-agent-arena)** — adversarial agent evaluation: an MCP/A2A gateway kept grounded through a protocol surface that lies to it, and a prosecutor that proves invariant breaks from a trace. A lab; the scaffold was my instructor's.
-- **[ai-platform-integration-lab](https://github.com/lystiger/ai-platform-integration-lab)** — nine components, ten integration points, evidence committed instead of claimed.
-- **[HASC](https://github.com/lystiger/HASC)** — product catalogue and admin panel for an industrial supplier, built to replace their legacy template site. Deployed, with self-hosted analytics; catalogue load and the `.com.vn` cutover still ahead.
-- Also: [RAInder](https://github.com/lystiger/RAInder) — DLSS-inspired rendering on Triton.
-
-Mobile: [CHAN](https://github.com/lystiger/CHAN) — scam detection, top 3 at the VinUni internal hackathon. [VBridge](https://github.com/lystiger/VBridge) — VAIC 2026, built in 48 hours. [Justagram](https://github.com/TommyDatLC/Justagram) — an Instagram clone in plain Java. No frameworks, no shortcuts.
-
-And the ones that left me slightly depressed: [Re:CNN](https://github.com/TommyDatLC/ReCNN), a CNN from scratch in C++ and CUDA. [Car Crash: Turbo Drive](https://github.com/TommyDatLC/Project-L), a Unity game that taught me feel is harder than logic. [SubSim](https://github.com/lystiger/SubSim), submarine validation, and the discovery that 3D is its own kind of pain.
-
-~60 repositories. Some private, some archived coursework, but the ones above are the work I'm proud of.
+And the ones that left me slightly depressed: [Re:CNN](https://github.com/TommyDatLC/ReCNN), a CNN from scratch in C++ and CUDA. [Car Crash: Turbo Drive](https://github.com/TommyDatLC/Project-L), where I learned feel is harder than logic. [SubSim](https://github.com/lystiger/SubSim), and that 3D is its own kind of pain.
 
 ### Stack
 
-**ML & Agents** — PyTorch • TensorFlow • Ultralytics YOLO • MLflow • NVIDIA Triton • LangChain / LangGraph • RAG • Ollama
-
-**Backend** — Python 3.12 • FastAPI • SQLAlchemy + Alembic • PostgreSQL • Redis • Dramatiq • pytest
-
-**Data & serving** — Kafka • Airflow • Spark / Delta Lake • Feast • Qdrant • vLLM • Envoy
-
-**Platform** — Docker Compose • GitHub Actions • OpenTelemetry • Prometheus / Grafana / Loki • Railway • n8n
-
-**Frontend** — React 19 • TypeScript • Next.js • Tailwind • Electron • Playwright
-
-**Mobile** — Kotlin • Jetpack Compose • React Native / Expo • Flutter
+Python · FastAPI · PyTorch · MLflow · Triton · LangGraph · PostgreSQL · Redis · Kafka · Airflow · Delta Lake · Qdrant · vLLM · Docker · OpenTelemetry · Grafana · n8n · React · TypeScript · Kotlin
 
 ### Fun Facts
 
