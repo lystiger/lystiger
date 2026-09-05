@@ -8,20 +8,6 @@ I work across ML engineering, backend systems, and MLOps: training and evaluatin
 
 My obsession with tech and agentic systems keeps pushing me to improve in this field.
 
-### Stack
-
-**ML & Agents** — PyTorch • TensorFlow / Keras • Ultralytics YOLO • MLflow • NVIDIA Triton • LangChain / LangGraph / Langfuse • RAG pipelines • Ollama
-
-**Backend** — Python 3.12 • FastAPI • SQLAlchemy + Alembic • PostgreSQL • Redis • Dramatiq • pytest
-
-**Frontend** — React 19 • TypeScript • Next.js • Vite • Tailwind • Zustand • Electron • Playwright
-
-**Mobile** — Kotlin • Jetpack Compose • Material 3 • Retrofit • React Native • Expo • Flutter / Dart • Java (Android)
-
-**Platform** — Docker Compose • GitHub Actions • OpenTelemetry • Prometheus / Grafana / Loki / Alloy • Railway • Render • Vercel
-
-**Data & serving** — Kafka • Airflow • Spark / Delta Lake • Feast • Qdrant • vLLM • Envoy
-
 My favorite tools are custom CLI agents — I feed them milk and cookies every day.
 
 ### Projects
@@ -68,6 +54,20 @@ These are labs, not personal projects — the scaffolds were written by my instr
 
 I currently have ~60 repositories.
 Some are private experiments, some are archived coursework, but the public ones above represent the work I'm proud of.
+
+### Stack
+
+**ML & Agents** — PyTorch • TensorFlow • Ultralytics YOLO • MLflow • NVIDIA Triton • LangChain / LangGraph • RAG • Ollama
+
+**Backend** — Python 3.12 • FastAPI • SQLAlchemy + Alembic • PostgreSQL • Redis • Dramatiq • pytest
+
+**Data & serving** — Kafka • Airflow • Spark / Delta Lake • Feast • Qdrant • vLLM • Envoy
+
+**Platform** — Docker Compose • GitHub Actions • OpenTelemetry • Prometheus / Grafana / Loki • Railway
+
+**Frontend** — React 19 • TypeScript • Next.js • Tailwind • Electron • Playwright
+
+**Mobile** — Kotlin • Jetpack Compose • React Native / Expo • Flutter
 
 ### Fun Facts
 
