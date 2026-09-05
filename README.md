@@ -45,7 +45,7 @@ And the ones that left me slightly depressed: [Re:CNN](https://github.com/TommyD
 
 **Data & serving** — Kafka • Airflow • Spark / Delta Lake • Feast • Qdrant • vLLM • Envoy
 
-**Platform** — Docker Compose • GitHub Actions • OpenTelemetry • Prometheus / Grafana / Loki • Railway
+**Platform** — Docker Compose • GitHub Actions • OpenTelemetry • Prometheus / Grafana / Loki • Railway • n8n
 
 **Frontend** — React 19 • TypeScript • Next.js • Tailwind • Electron • Playwright
 
