@@ -1,6 +1,8 @@
 ## Bonjour 👋
 
-I'm Anh, an **AI Engineer / ML System / MLOps enthusiast from Vietnam**.
+**AI Engineer · ML Systems · MLOps**
+
+Building production-oriented AI systems, agent infrastructure, and backend platforms.
 
 I work across ML engineering, backend systems, and MLOps: training and evaluating models, packaging inference, exposing APIs, and instrumenting what happens after deployment.
 
@@ -16,7 +18,7 @@ My obsession with tech and agentic systems keeps pushing me to improve in this f
 
 **Mobile** — Kotlin • Jetpack Compose • Material 3 • Retrofit • React Native • Expo • Flutter / Dart • Java (Android)
 
-**Platform** — Docker Compose • GitHub Actions • OpenTelemetry • Prometheus / Grafana / Loki / Alloy • Railway • Render
+**Platform** — Docker Compose • GitHub Actions • OpenTelemetry • Prometheus / Grafana / Loki / Alloy • Railway • Render • Vercel
 
 My favorite tools are custom CLI agents — I feed them milk and cookies every day.
 
