@@ -4,7 +4,7 @@
 
 *Building production-oriented AI systems, agent infrastructure, and backend platforms.*
 
-I train models, put them behind APIs, and instrument what happens after. Three months as an applied CV engineer at Foxconn (Fuyu SMT, AOI), which is why the PCB project below isn't a hobby. My favorite tools are custom CLI agents — I feed them milk and cookies every day.
+I train models, put them behind APIs, and instrument what happens after. Three months as an applied CV engineer at Foxconn Industrial Internet (Fuyu SMT), tuning models on production AOI lines — which is why the PCB project below isn't a hobby. My favorite tools are custom CLI agents — I feed them milk and cookies every day.
 
 ### Projects
 
