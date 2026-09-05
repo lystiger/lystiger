@@ -2,7 +2,7 @@
 
 **AI Engineer · ML Systems · MLOps**
 
-Building production-oriented AI systems, agent infrastructure, and backend platforms.
+*Building production-oriented AI systems, agent infrastructure, and backend platforms.*
 
 I work across ML engineering, backend systems, and MLOps: training and evaluating models, packaging inference, exposing APIs, and instrumenting what happens after deployment.
 
@@ -19,6 +19,8 @@ My obsession with tech and agentic systems keeps pushing me to improve in this f
 **Mobile** — Kotlin • Jetpack Compose • Material 3 • Retrofit • React Native • Expo • Flutter / Dart • Java (Android)
 
 **Platform** — Docker Compose • GitHub Actions • OpenTelemetry • Prometheus / Grafana / Loki / Alloy • Railway • Render • Vercel
+
+**Data & serving** — Kafka • Airflow • Spark / Delta Lake • Feast • Qdrant • vLLM • Envoy
 
 My favorite tools are custom CLI agents — I feed them milk and cookies every day.
 
@@ -50,6 +52,13 @@ My favorite tools are custom CLI agents — I feed them milk and cookies every d
 - **[VBridge](https://github.com/lystiger/VBridge)** — the SilentVoix team's entry for the **Vietnam AI Innovation Challenge (VAIC 2026)**: a Python inference backend with a [native Android demo](https://github.com/lystiger/VBridgeDemo) built in 48 hours.
 - **[MoveInMate — mobile](https://github.com/lystiger/MoveInMate)** — the shipped APK. React Native + Expo Router client for the resident onboarding assistant, with a mock server and Jest E2E suite.
 - **[Justagram](https://github.com/TommyDatLC/Justagram)** — a cheap Instagram clone in plain Java on Android. No frameworks, no shortcuts, just learning the platform the hard way.
+
+**Coursework I'd actually show**
+
+These are labs, not personal projects — the scaffolds were written by my instructors and I completed the tasks inside them. I'm listing them because the two subjects are hard to demonstrate anywhere else.
+
+- **[colosseum-agent-arena](https://github.com/lystiger/colosseum-agent-arena)** — adversarial agent evaluation. I built the MCP/A2A gateway that has to answer grounded in a real corpus through a protocol surface actively lying to it, plus the prosecutor that reads an opponent's trace and proves which invariant broke at which event. The format's rule is *no claim, no damage*: landing a hit you can't explain scores zero.
+- **[ai-platform-integration-lab](https://github.com/lystiger/ai-platform-integration-lab)** — a nine-component AI platform across 10 contract-verified integration points. Idempotency keys surviving Kafka replay, Delta dedup on redelivery, `ready`/`degraded`/`not_ready` health semantics, and an end-to-end trace — all captured as committed evidence rather than claimed.
 
 **And the ones that left me slightly depressed, mostly games and 3D projects**
 
