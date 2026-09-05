@@ -8,7 +8,7 @@ I train models, put them behind APIs, and instrument what happens after. My favo
 
 ### Projects
 
-**[SignGlove / SilentVoix](https://github.com/lovelypoet/SilentVoix)** — a glove that speaks. ESP32 at 50 Hz, an LSTM, no cloud. 🥇 1st Prize, APEC Innovation National Competition 2026. I was PM and made the core calls; 229 of its 314 commits are mine.
+**[SignGlove / SilentVoix](https://github.com/lovelypoet/SilentVoix)** — a glove that speaks. ESP32 at 50 Hz, an LSTM, no cloud. 🥇 1st Prize at the APEC Innovation National Competition 2026, and a consolation prize at USTH Research 2025. I was PM and made the core calls; 229 of its 314 commits are mine.
 
 **[AOI](https://github.com/lystiger/AOI)** — PCB defect inspection, measured end to end rather than asserted. Numbers in the README.
 
