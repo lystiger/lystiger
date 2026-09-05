@@ -28,7 +28,8 @@ The rest, shorter:
 - **[Elysia](https://github.com/lystiger/Elysia)** — local-first desktop companion on Electron + Ollama. A breathing orb, not a message thread.
 - **[SignGlove / SilentVoix](https://github.com/lovelypoet/SilentVoix)** — sign-language capture and translation. Still the most rewarding thing I've built.
 - **[ai-platform-integration-lab](https://github.com/lystiger/ai-platform-integration-lab)** — nine components, ten integration points, evidence committed instead of claimed.
-- Also: [RAInder](https://github.com/lystiger/RAInder) (Triton), [HASC](https://github.com/lystiger/HASC) (async image pipeline).
+- **[HASC](https://github.com/lystiger/HASC)** — a real client. Product catalogue and admin panel for an industrial supplier, replacing their legacy template site; running in production with self-hosted analytics while the `.com.vn` cutover waits on paperwork.
+- Also: [RAInder](https://github.com/lystiger/RAInder) — DLSS-inspired rendering on Triton.
 
 Mobile: [CHAN](https://github.com/lystiger/CHAN) — scam detection, top 3 at the VinUni internal hackathon. [VBridge](https://github.com/lystiger/VBridge) — VAIC 2026, built in 48 hours. [Justagram](https://github.com/TommyDatLC/Justagram) — an Instagram clone in plain Java. No frameworks, no shortcuts.
 
