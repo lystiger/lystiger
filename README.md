@@ -18,7 +18,7 @@ Three I'd actually talk about:
 
 **[Hermes Lab](https://github.com/lystiger/Hermes-lab)** — multi-agent orchestration runtime. Agent adapters run isolated phases across dedicated Git worktrees, with a declarative verification pipeline gating every merge. [LysStack](https://github.com/lystiger/LysStack) is its control plane; [LysControl](https://github.com/lystiger/LysControl) is the telemetry station.
 
-**[colosseum-agent-arena](https://github.com/lystiger/colosseum-agent-arena)** — adversarial agent evaluation. An MCP/A2A gateway that has to stay grounded through a protocol surface actively lying to it, and a prosecutor that proves from an opponent's trace which invariant broke and where. The rule is *no claim, no damage* — a hit you can't explain scores zero. A lab, not mine alone: the scaffold was my instructor's.
+**[HASC](https://github.com/lystiger/HASC)** — a product catalogue and admin panel for an industrial supplier, replacing the legacy template site they had been running on. Live in production with its own admin surface and self-hosted analytics; the `.com.vn` cutover is waiting on paperwork. My only project with a paying client on the other end of it.
 
 The rest, shorter:
 
@@ -28,7 +28,7 @@ The rest, shorter:
 - **[Elysia](https://github.com/lystiger/Elysia)** — local-first desktop companion on Electron + Ollama. A breathing orb, not a message thread.
 - **[SignGlove / SilentVoix](https://github.com/lovelypoet/SilentVoix)** — sign-language capture and translation. Still the most rewarding thing I've built.
 - **[ai-platform-integration-lab](https://github.com/lystiger/ai-platform-integration-lab)** — nine components, ten integration points, evidence committed instead of claimed.
-- **[HASC](https://github.com/lystiger/HASC)** — a real client. Product catalogue and admin panel for an industrial supplier, replacing their legacy template site; running in production with self-hosted analytics while the `.com.vn` cutover waits on paperwork.
+- **[colosseum-agent-arena](https://github.com/lystiger/colosseum-agent-arena)** — adversarial agent evaluation: an MCP/A2A gateway kept grounded through a protocol surface that lies to it, and a prosecutor that proves invariant breaks from a trace. A lab; the scaffold was my instructor's.
 - Also: [RAInder](https://github.com/lystiger/RAInder) — DLSS-inspired rendering on Triton.
 
 Mobile: [CHAN](https://github.com/lystiger/CHAN) — scam detection, top 3 at the VinUni internal hackathon. [VBridge](https://github.com/lystiger/VBridge) — VAIC 2026, built in 48 hours. [Justagram](https://github.com/TommyDatLC/Justagram) — an Instagram clone in plain Java. No frameworks, no shortcuts.
