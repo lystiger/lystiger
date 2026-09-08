@@ -4,8 +4,6 @@
 
 *Building production-oriented AI systems, agent infrastructure, and backend platforms.*
 
-**Portfolio — [portfolio-lystiger.vercel.app](https://portfolio-lystiger.vercel.app)**
-
 I train models, put them behind APIs, and instrument what happens after. Three months as an applied CV engineer at Foxconn Industrial Internet (Fuyu SMT), tuning models on production AOI lines. My favorite tools are custom CLI agents — I feed them milk and cookies every day.
 
 ### Projects
@@ -33,3 +31,7 @@ Python · FastAPI · PyTorch · MLflow · Triton · LangGraph · PostgreSQL · R
 + Pretty good cook
 
 + Polyglot!? *Oui, c'est vrai !*
+
+### Portfolio
+
+**[portfolio-lystiger.vercel.app](https://portfolio-lystiger.vercel.app)**
