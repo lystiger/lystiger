@@ -2,7 +2,7 @@
 
 **AI Engineer · ML Systems · MLOps**
 
-I train models, put them behind APIs, and instrument what happens after. Previously applied CV engineer at Foxconn Industrial Internet, tuning models on production AOI lines.
+I train models, put them behind APIs, and instrument what happens after. Previously: AI engineer (pilot) at VinSmart Future (VSF), building document extraction for the Administration department, which led to a junior offer; and applied CV engineer at Foxconn Industrial Internet, tuning models on production AOI lines.
 
 ### Projects
 
